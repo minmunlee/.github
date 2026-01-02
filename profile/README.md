@@ -3,7 +3,7 @@
 ## 📃 스터디 진행 상황
 📚 스터디 | 📖 내용 | 📅 기간 | 📚 레포지토리
 :----- | :----- | :----- | :-----
-**코딩테스트 스터디** | 백준과 프로그래머스의 알고리즘 문제를 해결합니다. | `2025.01 ~ 진행중` | [🔗](https://github.com/minmunlee/2025-algorithm-study) 
+**코딩테스트 스터디** | 백준과 프로그래머스의 알고리즘 문제를 해결합니다. | `2025.01 ~ 진행중` | [🔗](https://github.com/minmunlee/2025-algorithm-study) / [🔗](https://github.com/minmunlee/2026-algorithm-study)
 **면접 스터디** | 매주 면접 주제를 선정하고, 학습한 내용을 공유합니다.  | `2025.01 ~ 진행중` | [🔗](https://github.com/minmunlee/interview-study)
 **알고리즘 스터디** | 백준과 프로그래머스의 알고리즘 문제를 해결합니다. | `2023.09 ~ 2024.12` | [🔗](https://github.com/minmunlee/algorithm-study)
 **CS 주제 발표 스터디** | 매주 하나의 주제를 선정하고, 학습한 내용을 발표합니다. | `2023.09 ~ 2024.10` | [🔗](https://github.com/minmunlee/minmunlee-study)
